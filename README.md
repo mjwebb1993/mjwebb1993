@@ -12,16 +12,12 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Interests] and love to create innovative solutions.
+I am a ServiceNow Developer with AFS and a SavvyCoders Instructor based in St. Louis. I enjoy working through issues to find implementable solutions and learning from those steps to further build my skills as a developer.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [What You're Learning]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on idk
+- 🌱 I’m currently learning how to implement "after render" functions purely in the "after" hook of navigo's router.hooks.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: All the answers to the SavvyCoders homework repo can be found in this repository called [SC-All-Homework-Answers](https://github.com/mjwebb1993/SC-All-Homework-Answers)
 
 ### 🛠️ Languages and Tools:
 
@@ -35,13 +31,5 @@ I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Int
 ### 📈 GitHub Stats:
 
 [![mjwebb1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjwebb1993&show_icons=true&theme=radical)](https://github.com/mjwebb1993/github-readme-stats)
-
-
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](Your Blog Post URL)
-- [Another Blog Post Title](Another Blog Post URL)
-<!-- BLOG-POST-LIST:END -->
 
 ---
