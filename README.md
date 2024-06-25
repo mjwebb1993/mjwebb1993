@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Michael 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mjwebb1993/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
