@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/reaction-jimmyfunguscom-plethora-9nCW9iugMDG4o/giphy.gif" width="100%" height="auto" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTQ0MmNhbXB5Nm8xaHQwemtvd3lhbGtkZ3M1MDNjZ3d3amw5cTY5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9nCW9iugMDG4o/giphy.gif" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm Michael 👋</h1>
