@@ -5,9 +5,8 @@
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter Badge"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
+  <a href="https://www.linkedin.com/in/mjwebb1993/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
+ <!-- <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a> -->
 </p>
 
 ---
@@ -35,7 +34,7 @@ I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Int
 
 ### 📈 GitHub Stats:
 
-[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[[mjwebb1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjwebb1993&show_icons=true&theme=radical)](https://github.com/mjwebb1993/github-readme-stats)
 
 
 ### 📚 Latest Blog Posts
