@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxicmtndTF5b2Z5a205Z2l5eGhpOTBkYjNjaDV5ZGExdzg0M2YzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NEvPzZ8bd1V4Y/giphy.webp" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm Michael 👋</h1>
