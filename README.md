@@ -29,7 +29,7 @@ I am a ServiceNow Developer for AFS and an Instructor at SavvyCoders, based in S
 
 ### 📈 GitHub Stats:
 
-[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjwebb1993&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjwebb1993&show_icons=true&theme=radical)](https://github.com/mjwebb1993/github-readme-stats)
 
 
 
