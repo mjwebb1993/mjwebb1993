@@ -32,16 +32,6 @@ I am a ServiceNow Developer for AFS and an Instructor at SavvyCoders, based in S
 ### 📈 GitHub Stats:
 ![mjwebb1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjwebb1993&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-
----
-
-### 📈 GitHub Stats:
-
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjwebb1993&show_icons=true&theme=radical)](https://github.com/mjwebb1993/github-readme-stats)
-
-
-
-
 <!-- BLOG-POST-LIST:START 
 ### 📚 Latest Blog Posts
 - [Your Latest Blog Post Title](Your Blog Post URL)
