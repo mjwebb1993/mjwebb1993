@@ -22,10 +22,18 @@ I am a ServiceNow Developer for AFS and an Instructor at SavvyCoders, based in S
 
 ### 🛠️ Languages and Tools:
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-[MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-<!-- Add or remove languages and tools as per your skills -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drod1107&theme=ambient_gradient)](https://github.com/drod1107/github-readme-stats)
+
+### 📈 GitHub Stats:
+![mjwebb1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjwebb1993&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
+---
 
 ### 📈 GitHub Stats:
 
