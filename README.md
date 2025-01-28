@@ -27,7 +27,7 @@ I am a ServiceNow Developer for AFS and an Instructor at SavvyCoders, based in S
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwebb1993&theme=ambient_gradient)](https://github.com/drod1107/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjwebb1993&theme=ambient_gradient)](https://github.com/mjwebb1993/github-readme-stats)
 
 ### 📈 GitHub Stats:
 ![mjwebb1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjwebb1993&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
